@@ -26,5 +26,5 @@ if __name__ == "__main__":
     for i in range(0, 15, 1):
         output_filename = f'output{i}.png'
         pixely_effect(4, 'input.png', output_filename)
-
+    print("done")
 
